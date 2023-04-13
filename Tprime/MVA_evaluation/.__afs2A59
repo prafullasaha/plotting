@@ -1,0 +1,360 @@
+Running  ttgg
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	ttgg =25.8787
+After cut 	ttgg =1.61012
+Fraction		ttgg =0.0622182
+Running  ttgjets
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	ttgjets =246.149
+After cut 	ttgjets =7.29929
+Fraction		ttgjets =0.029654
+Running  DiPhotonJetsBox
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	DiPhotonJetsBox =256.099
+After cut 	DiPhotonJetsBox =11.8393
+Fraction		DiPhotonJetsBox =0.0462295
+Running  DiPhotonJetsBox2BJets
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	DiPhotonJetsBox2BJets =12.375
+After cut 	DiPhotonJetsBox2BJets =0.855645
+Fraction		DiPhotonJetsBox2BJets =0.0691433
+Running  gjets
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	gjets =177.555
+After cut 	gjets =6.68437
+Fraction		gjets =0.0376467
+Running  WW
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	WW =7.65576
+After cut 	WW =0.318731
+Fraction		WW =0.0416329
+Running  WZ
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	WZ =3.82746
+After cut 	WZ =0
+Fraction		WZ =0
+Running  ZZ
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	ZZ =2.07208
+After cut 	ZZ =0
+Fraction		ZZ =0
+Running  ttwjets
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	ttwjets =2.09957
+After cut 	ttwjets =0.0613635
+Fraction		ttwjets =0.0292267
+Running  ZG
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	ZG =374.056
+After cut 	ZG =6.18722
+Fraction		ZG =0.0165409
+Running  DYJets
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	DYJets =139.487
+After cut 	DYJets =-2.17347
+Fraction		DYJets =-0.0155819
+Running  WG
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	WG =351.843
+After cut 	WG =12.1633
+Fraction		WG =0.0345702
+Running  tgjets
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	tgjets =5.97109
+After cut 	tgjets =-0.508501
+Fraction		tgjets =-0.0851605
+Running  ttjets
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	ttjets =417.109
+After cut 	ttjets =7.6524
+Fraction		ttjets =0.0183463
+Running  thq_125
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	thq_125 =1.29629
+After cut 	thq_125 =0.312091
+Fraction		thq_125 =0.240758
+Running  tth_125
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	tth_125 =15.8654
+After cut 	tth_125 =1.52684
+Fraction		tth_125 =0.0962375
+Running  vh_125
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	vh_125 =2.64478
+After cut 	vh_125 =0.298722
+Fraction		vh_125 =0.112948
+Running  vbf_125
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	vbf_125 =0.229659
+After cut 	vbf_125 =0.0506442
+Fraction		vbf_125 =0.220519
+Running  ggh_125
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	ggh_125 =0.793501
+After cut 	ggh_125 =0.0843352
+Fraction		ggh_125 =0.106282
+Running  Tprime_600
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	Tprime_600 =3.81765
+After cut 	Tprime_600 =2.12866
+Fraction		Tprime_600 =0.557584
+Running  Tprime_625
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	Tprime_625 =3.26648
+After cut 	Tprime_625 =2.03156
+Fraction		Tprime_625 =0.621943
+Running  Tprime_650
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	Tprime_650 =2.73952
+After cut 	Tprime_650 =1.88767
+Fraction		Tprime_650 =0.689052
+Running  Tprime_675
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	Tprime_675 =2.3478
+After cut 	Tprime_675 =1.73566
+Fraction		Tprime_675 =0.739271
+Running  Tprime_700
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	Tprime_700 =2.07181
+After cut 	Tprime_700 =1.62369
+Fraction		Tprime_700 =0.783706
+Running  Tprime_800
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	Tprime_800 =1.1247
+After cut 	Tprime_800 =0.998939
+Fraction		Tprime_800 =0.88818
+Running  Tprime_900
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	Tprime_900 =0.636142
+After cut 	Tprime_900 =0.598456
+Fraction		Tprime_900 =0.940759
+Running  Tprime_1000
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	Tprime_1000 =0.37438
+After cut 	Tprime_1000 =0.361257
+Fraction		Tprime_1000 =0.964947
+Running  Tprime_1100
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	Tprime_1100 =0.221966
+After cut 	Tprime_1100 =0.216852
+Fraction		Tprime_1100 =0.976958
+Running  Tprime_1200
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	Tprime_1200 =0.139249
+After cut 	Tprime_1200 =0.137067
+Fraction		Tprime_1200 =0.984333
+Running  Data
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/plotting_macro/CMSSW_9_4_9/src/Tprime/Training/dataset_Run2_Tprime600_700VsHiggs/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+                         : Booking "BDTG" of type "BDT" from /afs/cern.ch/work/p/prsaha/public/Tprime_analysis/flashgg_legacy_runII_v4/CMSSW_10_6_8/src/flashgg/Taggers/data/Tprime_search_training/THQLeptonicTag_TprimeM800_M1000Vs_HiggsBkg_BDTG_RunII.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+Before cut 	Data =2278
+After cut 	Data =37
+Fraction		Data =0.0162423
